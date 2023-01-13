@@ -47,5 +47,4 @@ phpinfo();">/var/www/your_domain/info.php
 
 sudo systemctl reload apache2
 
-#Now you can create the PHP script that will connect to MySQL and query for your content. Create a new PHP file in your custom web root directory using your preferred editor. We’ll use nano for that:
-# $nano /var/www/your_domain/todo_list.php
+
